@@ -14,7 +14,7 @@ El objetivo principal de este desarrollo fue diseñar una herramienta práctica 
 
 ## Características Principales
 
-* **Arquitectura Integrada (Monolítito):** Conexión fluida donde las páginas PHP procesan solicitudes, ejecutan consultas SQL y renderizan las vistas de forma inmediata.
+* **Arquitectura Integrada :** Conexión fluida donde las páginas PHP procesan solicitudes, ejecutan consultas SQL y renderizan las vistas de forma inmediata.
 * **Operaciones CRUD Completas:** Control total del inventario de la boutique (Crear, Leer, Actualizar y Eliminar productos).
 * **Módulo de Autenticación:** Sistema de inicio de sesión para restringir el acceso a las funciones de administración.
 * **Interfaz Responsiva:** Diseño optimizado y limpio enfocado en la usabilidad y la comodidad del administrador.
